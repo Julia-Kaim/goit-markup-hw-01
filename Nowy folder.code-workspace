@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../../Nowy folder"
+	},
+	{
+		"path": "../goit-markup-hw-01"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "cSpell.words": ["ROZWIĄZANIA"]
+  }
+}
